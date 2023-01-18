@@ -1,7 +1,7 @@
 # `vexctl`: A tool to make VEX work
 
 `vexctl` is a tool to apply and attest [VEX](https://github.com/openvex/spec/blob/main/OPENVEX-SPEC.md) 
-(Vulnerability Exploitability eXchange)cdata. Its purpose is to "turn off" alerts of vulnerabilities that 
+(Vulnerability Exploitability eXchange) data. Its purpose is to "turn off" alerts of vulnerabilities that 
 do not affec a product.
 
 VEX can be thought of as a "negative security advisory" which software authors can use to 
