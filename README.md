@@ -1,3 +1,21 @@
+
+# Archival Notice
+
+This repository has been archived. The work initially done here 
+grew to become the [OpenVEX project](https://openvex.dev).
+
+The code originally hosted in this repo is now split into a couple
+of repositories in the [OpenVEX GitHub organization](https://github.com/openvex)
+like [vexctl](https://github.com/openvex/vexctl),
+[go-vex](https://github.com/openvex/go-vex)
+and the [OpenVEX spec](https://github.com/openvex/spec).
+
+Thanks for your support!
+
+:heart: Chainguard
+---
+
+
 # vexctl: A tool to make VEX work
 
 `vexctl` is a tool to apply and attest VEX (Vulnerability Exploitability eXchange)
